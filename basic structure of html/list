@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WEBSITE</title>
+</head>
+<body>
+  <h1>ONLINE STORE</h1>
+<h3><i>CATOGRIES</i></h3>
+<ol>
+  <li>CLOTHS</li>
+  <ul>
+  <li>SHIRTS</li>
+  <li>PANTS</li>
+  <li>JACKETS</li>
+  <li>SHOES</li>
+  <li>OTHERS</li>
+  </ul>
+  <li>TOYS</li>
+  <ul>
+    <li>PUSH TOYS</li>
+    <li>REMOTE CONTROL CAR</li>
+    <li>ELECTRONIC TOYS</li>
+    <li>OTHERS</li>
+  </ul>
+  <li>CAPS</li>
+  <ul>
+  <li>BRANDED CAPS</li>
+  <li>LOCAL CAPS</li>
+  <li>STYLISH CAPS</li>
+  <li>SIMPLE CAPS</li>
+  <li>OTHERS</li>
+  </ul>
+  <li>MOBILES</li>
+  <ul>
+  <li>INFINIX</li>
+  </li>REDMI</li>
+  <li>SAMSUNG</li>
+  <li>IPHONE</li>
+  <li>NOKIA</li>
+  <li>VIVO</li>
+  <li>OPPO</li>
+  <li>REALME</li>
+  </ul>
+  <li>ELECTRONICS</li>
+  <ul>
+    <li>TELEVISION</li>
+    <li>LAPTOP</li>
+    <li>COMPUTER</li>
+    <li>MOBILE PHONES</li>
+    <li>OTHERS</li>
+  </ul>
+</ol>
+
+</body>
+</html>
